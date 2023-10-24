@@ -12,6 +12,13 @@ body {
     color: #ffffff;
 }
 
+/* Images */
+.image--A {
+    width: 400px;
+    height:auto;
+    border: 10px grey;
+}
+
 /* Headings*/
 
 .header--main {
