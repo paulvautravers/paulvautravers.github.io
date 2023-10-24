@@ -6,8 +6,9 @@ body {
 
 /* Paragraphs */
 .paragraph--main {
+    font: Arial;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 18px;
     color: #ffffff;
 }
 
