@@ -4,6 +4,13 @@ body {
     font-family: Tahoma, sans-serif;
 }
 
+/* Paragraphs */
+.paragraph--main {
+    font-weight: normal;
+    font-size: 15px;
+    color: #ffffff;
+}
+
 /* Headings*/
 
 .header--main {
