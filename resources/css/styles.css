@@ -18,6 +18,12 @@ body {
     color: #ffffff;
 }
 
+.header--third {
+    font-weight: 300;
+    font-size: 35px;
+    color: #ffffff;
+}
+
 .header--sub-header {
     font-size: 21px;
     color: grey;
